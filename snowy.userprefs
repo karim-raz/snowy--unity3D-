@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScream.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="40" Column="4" />
+      <File FileName="Assets\Scripts\avalController2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\avalController.cs" Line="85" Column="1" />
+      <File FileName="Assets\Scripts\ObstacleEater.cs" Line="48" Column="5" />
+      <File FileName="Assets\Scripts\coinEater.cs" Line="13" Column="24" />
+      <File FileName="Assets\Scripts\BonusEater.cs" Line="15" Column="24" />
+      <File FileName="Assets\Scripts\BGLooper.cs" Line="54" Column="1" />
+      <File FileName="Assets\Scripts\MenuStart.cs" Line="89" Column="3" />
+      <File FileName="Assets\Scripts\PlayerScream.cs" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

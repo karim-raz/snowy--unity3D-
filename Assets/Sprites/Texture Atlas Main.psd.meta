@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: b54d042b94a307745a96762809529f35
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Texture Atlas Main_0
+    21300002: Texture Atlas Main_1
+    21300004: Texture Atlas Main_2
+    21300006: Texture Atlas Main_3
+    21300008: Texture Atlas Main_4
+    21300010: Texture Atlas Main_5
+    21300012: Texture Atlas Main_6
+    21300014: Texture Atlas Main_7
+    21300016: Texture Atlas Main_8
+    21300018: Texture Atlas Main_9
+    21300020: Texture Atlas Main_10
+    21300022: Texture Atlas Main_11
+    21300024: Texture Atlas Main_12
+    21300026: Texture Atlas Main_13
+    21300028: Texture Atlas Main_14
+    21300030: Texture Atlas Main_15
+    21300032: Texture Atlas Main_16
+    21300034: Texture Atlas Main_17
+    21300036: Texture Atlas Main_18
+    21300038: Texture Atlas Main_19
+    21300040: Texture Atlas Main_20
+    21300042: Texture Atlas Main_21
+    21300044: Texture Atlas Main_22
+    21300046: Texture Atlas Main_23
+    21300048: Texture Atlas Main_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Texture Atlas Main_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1864
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1887
+        width: 382
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1659
+        width: 388
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1845
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1691
+        width: 310
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_5
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1551
+        width: 389
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1869
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1673
+        width: 384
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_8
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1599
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1132
+        width: 1333
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_10
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1443
+        width: 385
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 511
+        width: 1330
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_12
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 787
+        width: 604
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_13
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 441
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_14
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 441
+        width: 316
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 356
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 67
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 15
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_19
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 143
+        width: 143
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_20
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 5
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_21
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 121
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_22
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 121
+        width: 47
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_23
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 53
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Texture Atlas Main_24
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 13
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
